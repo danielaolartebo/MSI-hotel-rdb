@@ -1,6 +1,6 @@
 # ***Relational Hotel DB*** 🔧
 
-*Relational database exercise related to a real-life hotel information*
+*Relational database related to a real-life hotel information*
 
 ## ***Built With*** 🛠️
 
